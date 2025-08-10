@@ -12,7 +12,5 @@
 			<class name="com.demo.allure.TestCase2" />
 			<class name="com.demo.allure.TestCase3" />
 		</classes>
-
-		<!-- <classes> <class name="com.demo.extent.testngExtentReport" /> </classes> -->
 	</test> <!-- Test -->
 </suite> <!-- SmokeTesting -->
